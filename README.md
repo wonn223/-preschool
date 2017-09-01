@@ -3,6 +3,7 @@
 
 *브런치 종류
 <img src="https://backlogtool.com/git-tutorial/kr/img/post/stepup/capture_stepup1_5_6.png">
+
 마스터 : 확정된 기본 브랜치
 디벨롭 : 개발용 작업
 hotfixes : 디벨롭 과정에서 버그를 고칠 때
@@ -17,3 +18,6 @@ git push origin(저장소) master(브런치 이름): 처음 원격 저장소 (or
 git commit 
 git push
 git pull 
+
+*참고사이트
+https://backlogtool.com/git-tutorial/kr/stepup/stepup2_1.html
