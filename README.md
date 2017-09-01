@@ -15,9 +15,11 @@ git checkout b
 *순서
 git status : 커밋한 준비가 됐는지 알 수 있는 명령어로 초록색으로 표시되면 된다
 git push origin(저장소) master(브런치 이름): 처음 원격 저장소 (origin)에 마스터 브랜치에 넣기
-git commit 
+git commit : 파일을 커밋하고 나서 부연설명을 달 수 있음 그 뒤 쉬프트 콜론 누르고 wq로 나감
 git push
 git pull 
 
 *참고사이트
 https://backlogtool.com/git-tutorial/kr/stepup/stepup2_1.html
+
+터미널 위치 디렉토리 명령어 : ls
